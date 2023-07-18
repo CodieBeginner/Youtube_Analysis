@@ -1,4 +1,4 @@
-# Youtube_Analysis
+# TEXT DATA ANALYSIS on YouTube Data
 
 Analysing the trends in Youtube using EDA
 Q1. How to load CSV data into jupyter notebook ?
