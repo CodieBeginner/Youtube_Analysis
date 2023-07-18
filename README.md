@@ -1,7 +1,15 @@
 # Youtube_Analysis
+
 Analysing the trends in Youtube using EDA
-A short project on Youtube Analysis where I did some analysis on sentiments of people, how they reacted to certain videos. 
-Also I did some analysis on how many good or bad words are there in a comment box. 
-I did emoji analysis, most liked category on youtube and much more, all are in headings. 
-I also attached the resourses and the exported data files in this repo. I had to compress it cuz GITHUB doesn't allow files more than 100MB.
-Happy Coding. 
+Q1. How to load CSV data into jupyter notebook ?
+Q2. Can you perform a Sentiment Analysis ?
+Q3. Can you perform a WordCloud Analysis ?
+Q4. Can you perform an Emoji Analysis ?
+Q5. How to collect entire data of YouTube ?
+Q6. How to export data into csv, json, databases etc. ?
+Q7. Can you analyse the most liked category in YouTube ?
+Q8. Analyse whether the audience is engaged or not. 
+Q9. Can you analyse the trending videos in YouTube ?
+Q10. Does punctuation have an impact on views, likes, dislikes ?
+
+# THE END
