@@ -1,8 +1,8 @@
 
 <h2>TEXT DATA ANALYSIS on YouTube Data</h2>
-<ol>
+
 <li>Analysing the trends in Youtube using EDA</li>
-<li>Q1. How to load CSV data into jupyter notebook ?</li>
+<ol><li>Q1. How to load CSV data into jupyter notebook ?</li>
 <li>Q2. Can you perform a Sentiment Analysis ?</li>
 <li>Q3. Can you perform a WordCloud Analysis ?</li>
 <li>Q4. Can you perform an Emoji Analysis ?</li>
