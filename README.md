@@ -1,8 +1,6 @@
-
-<h2>TEXT DATA ANALYSIS on YouTube Data</h2>
-
+<ul>
 <li>Analysing the trends in Youtube using EDA</li>
-<ol><li>Q1. How to load CSV data into jupyter notebook ?</li>
+<li>Q1. How to load CSV data into jupyter notebook ?</li>
 <li>Q2. Can you perform a Sentiment Analysis ?</li>
 <li>Q3. Can you perform a WordCloud Analysis ?</li>
 <li>Q4. Can you perform an Emoji Analysis ?</li>
@@ -12,6 +10,4 @@
 <li>Q8. Analyse whether the audience is engaged or not. </li>
 <li>Q9. Can you analyse the trending videos in YouTube ?</li>
 <li>Q10. Does punctuation have an impact on views, likes, dislikes ?</li>
-</ol>
-
-
+</ul>
